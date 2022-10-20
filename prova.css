@@ -1,0 +1,11 @@
+table{
+  margin: 20px 0 40px;
+}
+td,tr{
+  border: 1px solid #000000
+}
+thead{
+  background: #66CDAA;
+  color: white;
+  font-weight: bold;
+}
